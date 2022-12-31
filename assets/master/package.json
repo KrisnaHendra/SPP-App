@@ -29,11 +29,11 @@
     "Opera >= 30"
   ],
   "devDependencies": {
-    "@babel/core": "^7.1.0",
+    "@babel/core": "^7.20.7",
     "@babel/preset-env": "^7.1.0",
     "@babel/register": "^7.0.0",
     "autoprefixer": "^9.1.5",
-    "babel-loader": "^8.0.2",
+    "babel-loader": "^8.3.0",
     "browser-sync": "^2.24.7",
     "del": "^3.0.0",
     "gulp": "^4.0.0",
@@ -48,8 +48,8 @@
     "gulp-strip-comments": "^2.5.2",
     "gulp-uglify": "^3.0.1",
     "vinyl-named": "^1.1.0",
-    "webpack": "^4.20.2",
-    "webpack-stream": "^4.0.3"
+    "webpack": "^5.75.0",
+    "webpack-stream": "^7.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.3.1",
